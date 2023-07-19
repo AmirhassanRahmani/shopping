@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shopping/static/css/main.d20202a4.css",
-    "main.js": "/shopping/static/js/main.79c74257.js",
+    "main.js": "/shopping/static/js/main.ef2558b1.js",
     "static/js/787.eaad36ba.chunk.js": "/shopping/static/js/787.eaad36ba.chunk.js",
     "static/media/shopping-svgrepo-com.svg": "/shopping/static/media/shopping-svgrepo-com.921b4ebf6013d808f01685577a3495e4.svg",
     "index.html": "/shopping/index.html",
     "main.d20202a4.css.map": "/shopping/static/css/main.d20202a4.css.map",
-    "main.79c74257.js.map": "/shopping/static/js/main.79c74257.js.map",
+    "main.ef2558b1.js.map": "/shopping/static/js/main.ef2558b1.js.map",
     "787.eaad36ba.chunk.js.map": "/shopping/static/js/787.eaad36ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.79c74257.js"
+    "static/js/main.ef2558b1.js"
   ]
 }
